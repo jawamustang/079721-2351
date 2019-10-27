@@ -1,0 +1,328 @@
+EESchema Schematic File Version 4
+LIBS:079721-2351-cache
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Transistor_BJT:BC557 T832
+U 1 1 5DB43179
+P 3300 2500
+F 0 "T832" H 3490 2546 50  0000 L CNN
+F 1 "Empty" H 3490 2455 50  0000 L CNN
+F 2 "Package_TO_SOT_THT:MazdaTo126" H 3500 2425 50  0001 L CIN
+F 3 "http://www.fairchildsemi.com/ds/BC/BC557.pdf" H 3300 2500 50  0001 L CNN
+	1    3300 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Transistor_BJT:BC557 T822
+U 1 1 5DB4397D
+P 3900 2500
+F 0 "T822" H 4091 2546 50  0000 L CNN
+F 1 "empty" H 4091 2455 50  0000 L CNN
+F 2 "Package_TO_SOT_THT:MazdaTo126" H 4100 2425 50  0001 L CIN
+F 3 "http://www.fairchildsemi.com/ds/BC/BC557.pdf" H 3900 2500 50  0001 L CNN
+	1    3900 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Transistor_BJT:BC557 T852
+U 1 1 5DB442C7
+P 2400 6000
+F 0 "T852" H 2591 6046 50  0000 L CNN
+F 1 "empty" H 2591 5955 50  0000 L CNN
+F 2 "Package_TO_SOT_THT:TO-220-3_Vertical" H 2600 5925 50  0001 L CIN
+F 3 "http://www.fairchildsemi.com/ds/BC/BC557.pdf" H 2400 6000 50  0001 L CNN
+	1    2400 6000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Transistor_BJT:BC557 T851
+U 1 1 5DB44AE4
+P 7650 1900
+F 0 "T851" H 7840 1946 50  0000 L CNN
+F 1 "Empty" H 7840 1855 50  0000 L CNN
+F 2 "Package_TO_SOT_THT:TO-92_Inline" H 7850 1825 50  0001 L CIN
+F 3 "http://www.fairchildsemi.com/ds/BC/BC557.pdf" H 7650 1900 50  0001 L CNN
+	1    7650 1900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Transistor_BJT:BC557 T861
+U 1 1 5DB45517
+P 8500 1900
+F 0 "T861" H 8690 1946 50  0000 L CNN
+F 1 "Empty" H 8690 1855 50  0000 L CNN
+F 2 "Package_TO_SOT_THT:TO-92_Inline" H 8700 1825 50  0001 L CIN
+F 3 "http://www.fairchildsemi.com/ds/BC/BC557.pdf" H 8500 1900 50  0001 L CNN
+	1    8500 1900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Transistor_BJT:BC557 Empty1
+U 1 1 5DB460C4
+P 7550 2550
+F 0 "Empty1" H 7741 2596 50  0000 L CNN
+F 1 "BC557" H 7741 2505 50  0000 L CNN
+F 2 "Package_TO_SOT_THT:TO-92_Inline" H 7750 2475 50  0001 L CIN
+F 3 "http://www.fairchildsemi.com/ds/BC/BC557.pdf" H 7550 2550 50  0001 L CNN
+	1    7550 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Transistor_BJT:BC557 T831
+U 1 1 5DB46993
+P 8500 2650
+F 0 "T831" H 8690 2696 50  0000 L CNN
+F 1 "Empty" H 8690 2605 50  0000 L CNN
+F 2 "Package_TO_SOT_THT:TO-92_Inline" H 8700 2575 50  0001 L CIN
+F 3 "http://www.fairchildsemi.com/ds/BC/BC557.pdf" H 8500 2650 50  0001 L CNN
+	1    8500 2650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4001 D831
+U 1 1 5DB4C919
+P 3700 2950
+F 0 "D831" H 3700 2734 50  0000 C CNN
+F 1 "empty" H 3700 2825 50  0000 C CNN
+F 2 "Diode_THT:DiodaMazda" H 3700 2775 50  0001 C CNN
+F 3 "http://www.vishay.com/docs/88503/1n4001.pdf" H 3700 2950 50  0001 C CNN
+	1    3700 2950
+	-1   0    0    1   
+$EndComp
+$Comp
+L Diode:1N4001 D821
+U 1 1 5DB4E26F
+P 3700 3350
+F 0 "D821" H 3700 3134 50  0000 C CNN
+F 1 "empty" H 3700 3225 50  0000 C CNN
+F 2 "Diode_THT:DiodaMazda" H 3700 3175 50  0001 C CNN
+F 3 "http://www.vishay.com/docs/88503/1n4001.pdf" H 3700 3350 50  0001 C CNN
+	1    3700 3350
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:R R483
+U 1 1 5DB50170
+P 3700 3700
+F 0 "R483" V 3493 3700 50  0000 C CNN
+F 1 "empty" V 3584 3700 50  0000 C CNN
+F 2 "Resistor_THT:MazdaResistor10mm" V 3630 3700 50  0001 C CNN
+F 3 "~" H 3700 3700 50  0001 C CNN
+	1    3700 3700
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R452
+U 1 1 5DB50C29
+P 3700 4050
+F 0 "R452" V 3493 4050 50  0000 C CNN
+F 1 "10K" V 3584 4050 50  0000 C CNN
+F 2 "Resistor_THT:MazdaResistor10mm" V 3630 4050 50  0001 C CNN
+F 3 "~" H 3700 4050 50  0001 C CNN
+	1    3700 4050
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R432
+U 1 1 5DB515B9
+P 3700 4500
+F 0 "R432" V 3493 4500 50  0000 C CNN
+F 1 "10K" V 3584 4500 50  0000 C CNN
+F 2 "Resistor_THT:MazdaResistor10mm" V 3630 4500 50  0001 C CNN
+F 3 "~" H 3700 4500 50  0001 C CNN
+	1    3700 4500
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:CP C411
+U 1 1 5DB7450F
+P 3700 4850
+F 0 "C411" V 3445 4850 50  0000 C CNN
+F 1 "3.3Uf50Velectrolitic" V 3536 4850 50  0000 C CNN
+F 2 "Capacitor_THT:capacitorPolarisedMazda6mm" H 3738 4700 50  0001 C CNN
+F 3 "~" H 3700 4850 50  0001 C CNN
+	1    3700 4850
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R493
+U 1 1 5DB76EFD
+P 3700 5250
+F 0 "R493" V 3493 5250 50  0000 C CNN
+F 1 "10K" V 3584 5250 50  0000 C CNN
+F 2 "Resistor_THT:MazdaResistor10mm" V 3630 5250 50  0001 C CNN
+F 3 "~" H 3700 5250 50  0001 C CNN
+	1    3700 5250
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:C C111
+U 1 1 5DB7E191
+P 3700 5550
+F 0 "C111" V 3448 5550 50  0000 C CNN
+F 1 "10nF50V (103 50J NCC)" V 3539 5550 50  0000 C CNN
+F 2 "ProjektMazda:capacitorTantalumMazda6mm" H 3738 5400 50  0001 C CNN
+F 3 "~" H 3700 5550 50  0001 C CNN
+	1    3700 5550
+	0    1    1    0   
+$EndComp
+$Comp
+L 079721-2351-rescue:Conn_02x11_Top_Bottom_Shielded-MazdaProjekt J1
+U 1 1 5DB69175
+P 1300 5000
+F 0 "J1" H 1350 5815 50  0000 C CNN
+F 1 "Mazda_02x11" H 1350 5724 50  0000 C CNN
+F 2 "ProjektMazda:EcuConnector22pin" H 1300 5000 50  0001 C CNN
+F 3 "~" H 1300 5000 50  0001 C CNN
+	1    1300 5000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R712
+U 1 1 5DB890CE
+P 2700 600
+F 0 "R712" V 2600 600 50  0000 C CNN
+F 1 "1K" V 2700 600 50  0000 C CNN
+F 2 "Resistor_THT:MazdaResistor10mm" V 2630 600 50  0001 C CNN
+F 3 "~" H 2700 600 50  0001 C CNN
+	1    2700 600 
+	0    1    1    0   
+$EndComp
+$Comp
+L Diode:1N4001 D901
+U 1 1 5DB8AE42
+P 2700 800
+F 0 "D901" H 2700 700 50  0000 C CNN
+F 1 "1E1" H 2600 750 50  0000 C CNN
+F 2 "Diode_THT:DiodaMazda" H 2700 625 50  0001 C CNN
+F 3 "http://www.vishay.com/docs/88503/1n4001.pdf" H 2700 800 50  0001 C CNN
+	1    2700 800 
+	-1   0    0    1   
+$EndComp
+$Comp
+L 079721-2351-rescue:Conn_02x13_Odd_Even-MazdaProjekt J2
+U 1 1 5DB86234
+P 1800 3200
+F 0 "J2" H 1850 4017 50  0000 C CNN
+F 1 "Conn_02x13_Odd_Even" H 1850 3926 50  0000 C CNN
+F 2 "ProjektMazda:EcuConnector26pin" H 1800 3200 50  0001 C CNN
+F 3 "~" H 1800 3200 50  0001 C CNN
+	1    1800 3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C053
+U 1 1 5DB882C5
+P 2700 1050
+F 0 "C053" V 2550 1050 50  0000 C CNN
+F 1 "10nF (103)" V 2650 1300 50  0000 C CNN
+F 2 "ProjektMazda:capacitorTantalumMazda6mm" H 2738 900 50  0001 C CNN
+F 3 "~" H 2700 1050 50  0001 C CNN
+	1    2700 1050
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:Jumper J711
+U 1 1 5DB6261A
+P 2350 1350
+F 0 "J711" H 2150 1450 50  0000 C CNN
+F 1 "Empty" H 2600 1450 50  0000 C CNN
+F 2 "jumper:jumper-10E" H 2350 1350 50  0001 C CNN
+F 3 "~" H 2350 1350 50  0001 C CNN
+	1    2350 1350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R812
+U 1 1 5DB64321
+P 2350 1500
+F 0 "R812" V 2350 1500 50  0000 C CNN
+F 1 "3.9R2W" V 2400 1150 50  0000 C CNN
+F 2 "" V 2300 700 50  0000 C CNN
+F 3 "~" H 2350 1500 50  0001 C CNN
+	1    2350 1500
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:C c861
+U 1 1 5DB69FE7
+P 2200 1750
+F 0 "c861" V 2050 1750 50  0000 C CNN
+F 1 "empty" V 2150 1900 50  0000 C CNN
+F 2 "ProjektMazda:capacitorTantalumMazda6mm" H 2238 1600 50  0001 C CNN
+F 3 "~" H 2200 1750 50  0001 C CNN
+	1    2200 1750
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R813
+U 1 1 5DB7318B
+P 2400 2000
+F 0 "R813" V 2300 2000 50  0000 C CNN
+F 1 "63R" V 2400 2000 50  0000 C CNN
+F 2 "ProjektMazda:MazdaResistor12mm" V 2330 2000 50  0001 C CNN
+F 3 "~" H 2400 2000 50  0001 C CNN
+	1    2400 2000
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R806
+U 1 1 5DB792DD
+P 2500 2600
+F 0 "R806" V 2500 2600 50  0000 C CNN
+F 1 "8.2R2W" V 2450 2850 50  0000 C CNN
+F 2 "" V 2450 1800 50  0000 C CNN
+F 3 "~" H 2500 2600 50  0001 C CNN
+	1    2500 2600
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	2350 2600 2250 2600
+Wire Wire Line
+	2250 2600 2250 2700
+Wire Wire Line
+	2250 2700 2050 2700
+$Comp
+L Device:R R832
+U 1 1 5DB825F6
+P 2500 2750
+F 0 "R832" V 2500 2750 50  0000 C CNN
+F 1 "empty" V 2450 3000 50  0000 C CNN
+F 2 "" V 2450 1950 50  0000 C CNN
+F 3 "~" H 2500 2750 50  0001 C CNN
+	1    2500 2750
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R822
+U 1 1 5DB83A60
+P 2500 2900
+F 0 "R822" V 2500 2900 50  0000 C CNN
+F 1 "empty" V 2450 3150 50  0000 C CNN
+F 2 "" V 2450 2100 50  0000 C CNN
+F 3 "~" H 2500 2900 50  0001 C CNN
+	1    2500 2900
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	1650 2900 1850 2900
+Wire Wire Line
+	1850 2900 1850 2750
+Wire Wire Line
+	1850 2750 2350 2750
+Wire Wire Line
+	2350 2900 2050 2900
+$EndSCHEMATC

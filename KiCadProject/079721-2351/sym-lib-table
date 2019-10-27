@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name MazdaProjekt)(type Legacy)(uri D:/MazdaPcb/KiCadProject/079721-2351/079721-2351-cache.lib)(options "")(descr ""))
+  (lib (name 079721-2351-cache)(type Legacy)(uri ${KIPRJMOD}/079721-2351-cache.lib)(options "")(descr ""))
+  (lib (name 079721-2351-rescue)(type Legacy)(uri ${KIPRJMOD}/079721-2351-rescue.lib)(options "")(descr ""))
+)
