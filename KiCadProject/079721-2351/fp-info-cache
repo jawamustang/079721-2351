@@ -1,4 +1,4 @@
-15722048847718
+20438940987712
 ProjektMazda
 DiodaMazda
 Diode, 5W series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=8.9*3.7mm^2, , http://www.diodes.com/_files/packages/8686949.gif
@@ -21,6 +21,13 @@ PIN HEADER - 2.54
 26
 26
 ProjektMazda
+Filter3Pin
+TRIMM CAPACITOR STELCO GMBH
+TRIMM CAPACITOR STELCO GMBH
+0
+3
+3
+ProjektMazda
 Jumper
 JUMPER
 JUMPER
@@ -42,6 +49,13 @@ Resistor Axial_DIN0411 series Axial Horizontal pin pitch 12.7mm 1W length 9.9mm 
 2
 2
 ProjektMazda
+MazdaResistor15mm
+Resistor, Axial_DIN0411 series, Axial, Horizontal, pin pitch=12.7mm, 1W, length*diameter=9.9*3.6mm^2
+Resistor Axial_DIN0411 series Axial Horizontal pin pitch 12.7mm 1W length 9.9mm diameter 3.6mm
+0
+2
+2
+ProjektMazda
 MazdaResistor17mm
 Resistor, Axial_DIN0411 series, Axial, Horizontal, pin pitch=12.7mm, 1W, length*diameter=9.9*3.6mm^2
 Resistor Axial_DIN0411 series Axial Horizontal pin pitch 12.7mm 1W length 9.9mm diameter 3.6mm
@@ -55,6 +69,13 @@ TO-126-3 Vertical RM 2.54mm
 0
 3
 3
+ProjektMazda
+R17mm
+Resistor, Axial_DIN0411 series, Axial, Horizontal, pin pitch=12.7mm, 1W, length*diameter=9.9*3.6mm^2
+Resistor Axial_DIN0411 series Axial Horizontal pin pitch 12.7mm 1W length 9.9mm diameter 3.6mm
+0
+2
+2
 ProjektMazda
 capacitorPolarisedMazda6mm
 CP, Radial_Tantal series, Radial, pin pitch=5.00mm, , diameter=4.5mm, Tantal Electrolytic Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/TANTAL-TB-Serie%23.pdf
