@@ -1,155 +1,183 @@
-1369047019340
-40xx
-40xx-DIL08
-DUAL IN LINE PACKAGE
-DUAL IN LINE PACKAGE
+40882844917644
+ProjektMazda
+2sc4065
+TO-126-3, Vertical, RM 2.54mm, see https://www.diodes.com/assets/Package-Files/TO126.pdf
+TO-126-3 Vertical RM 2.54mm
 0
-8
-8
-40xx
-40xx-DIL14
-DUAL IN LINE PACKAGE
-DUAL IN LINE PACKAGE
+3
+3
+ProjektMazda
+C_Radial_D6mm_P4mm
+C, Radial series, Radial, pin pitch=2.50mm, diameter=6.3mm, height=5mm, Non-Polar Electrolytic Capacitor
+C Radial series Radial pin pitch 2.50mm diameter 6.3mm height 5mm Non-Polar Electrolytic Capacitor
 0
-14
-14
-40xx
-40xx-DIL16
-DUAL IN LINE PACKAGE
-DUAL IN LINE PACKAGE
+2
+2
+ProjektMazda
+C_Radial_D7mm_P5mm
+C, Radial series, Radial, pin pitch=2.50mm, diameter=6.3mm, height=5mm, Non-Polar Electrolytic Capacitor
+C Radial series Radial pin pitch 2.50mm diameter 6.3mm height 5mm Non-Polar Electrolytic Capacitor
 0
-16
-16
-40xx
-40xx-DIL18
-DUAL IN LINE PACKAGE
-DUAL IN LINE PACKAGE
+2
+2
+ProjektMazda
+C_array_7
+PIN HEADER - 0.1"
+PIN HEADER - 0.1"
 0
-18
-18
-40xx
-40xx-DIL20
-DUAL IN LINE PACKAGE
-DUAL IN LINE PACKAGE
+7
+7
+ProjektMazda
+Capacitor_13mm_7m_rect_2_pin
+NP FILM CAP
+NP FILM CAP
 0
-20
-20
-40xx
-40xx-DIL24-3
-DUAL IN LINE PACKAGE 0.3 INCH
-DUAL IN LINE PACKAGE 0.3 INCH
+2
+2
+ProjektMazda
+Capacitor_17mm_7m_rect_3_pin
+NP FILM CAP
+NP FILM CAP
 0
-24
-24
-40xx
-40xx-DIL24-6
-DUAL IN LINE PACKAGE 0.6 INCH
-DUAL IN LINE PACKAGE 0.6 INCH
+3
+2
+ProjektMazda
+DiodaMazda
+Diode, 5W series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=8.9*3.7mm^2, , http://www.diodes.com/_files/packages/8686949.gif
+Diode 5W series Axial Horizontal pin pitch 10.16mm  length 8.9mm diameter 3.7mm
 0
-24
-24
-40xx
-40xx-DIL28-3
-DUAL IN LINE PACKAGE SMALL
-DUAL IN LINE PACKAGE SMALL
+2
+2
+ProjektMazda
+EcuConnector22pin
+PIN HEADER - 2.54
+PIN HEADER - 2.54
 0
-28
-28
-40xx
-40xx-DIL28-6
-DUAL IN LINE PACKAGE 0.6 INCH
-DUAL IN LINE PACKAGE 0.6 INCH
+22
+22
+ProjektMazda
+EcuConnector26pin
+PIN HEADER - 2.54
+PIN HEADER - 2.54
 0
-28
-28
-40xx
-40xx-DIL40
-DUAL IN LINE PACKAGE
-DUAL IN LINE PACKAGE
+26
+26
+ProjektMazda
+Filter3Pin
+TRIMM CAPACITOR STELCO GMBH
+TRIMM CAPACITOR STELCO GMBH
 0
-40
-40
-40xx
-40xx-DIL48
-DUAL IN LINE PACKAGE
-DUAL IN LINE PACKAGE
+3
+3
+ProjektMazda
+Jumper
+JUMPER
+JUMPER
 0
-48
-48
-40xx
-40xx-LCC20
-LCC 20 LEADLESS CHIP CARRIER  CERAMIC PACKAGE
-LCC 20 LEADLESS CHIP CARRIER  CERAMIC PACKAGE
+2
+2
+ProjektMazda
+MazdaResistor7mm
+Resistor, Axial_DIN0411 series, Axial, Horizontal, pin pitch=12.7mm, 1W, length*diameter=9.9*3.6mm^2
+Resistor Axial_DIN0411 series Axial Horizontal pin pitch 12.7mm 1W length 9.9mm diameter 3.6mm
 0
-20
-20
-40xx
-40xx-LCC28
-LEADLESS CHIP CARRIER CERAMIC PACKAGE
-LEADLESS CHIP CARRIER CERAMIC PACKAGE
+2
+2
+ProjektMazda
+MazdaResistor10mm
+Resistor, Axial_DIN0411 series, Axial, Horizontal, pin pitch=12.7mm, 1W, length*diameter=9.9*3.6mm^2
+Resistor Axial_DIN0411 series Axial Horizontal pin pitch 12.7mm 1W length 9.9mm diameter 3.6mm
 0
-28
-28
-40xx
-40xx-PLCC20
-PLASTIC LEADED CHIP CARRIERIPC STANDARD
-PLASTIC LEADED CHIP CARRIERIPC STANDARD
+2
+2
+ProjektMazda
+MazdaResistor12mm
+Resistor, Axial_DIN0411 series, Axial, Horizontal, pin pitch=12.7mm, 1W, length*diameter=9.9*3.6mm^2
+Resistor Axial_DIN0411 series Axial Horizontal pin pitch 12.7mm 1W length 9.9mm diameter 3.6mm
 0
-20
-20
-40xx
-40xx-PLCC28
-PLASTIC LEADED CHIP CARRIERIPC STANDARD
-PLASTIC LEADED CHIP CARRIERIPC STANDARD
+2
+2
+ProjektMazda
+MazdaResistor15mm
+Resistor, Axial_DIN0411 series, Axial, Horizontal, pin pitch=12.7mm, 1W, length*diameter=9.9*3.6mm^2
+Resistor Axial_DIN0411 series Axial Horizontal pin pitch 12.7mm 1W length 9.9mm diameter 3.6mm
 0
-28
-28
-40xx
-40xx-PLCC68
-PLASTIC LEADED CHIP CARRIER
-PLASTIC LEADED CHIP CARRIER
+2
+2
+ProjektMazda
+MazdaResistor17mm
+Resistor, Axial_DIN0411 series, Axial, Horizontal, pin pitch=12.7mm, 1W, length*diameter=9.9*3.6mm^2
+Resistor Axial_DIN0411 series Axial Horizontal pin pitch 12.7mm 1W length 9.9mm diameter 3.6mm
 0
-68
-68
-40xx
-40xx-SO08
-SMALL OUTLINE PACKAGE 8 150 MIL
-SMALL OUTLINE PACKAGE 8 150 MIL
+2
+2
+ProjektMazda
+MazdaTo126
+TO-126-3, Vertical, RM 2.54mm, see https://www.diodes.com/assets/Package-Files/TO126.pdf
+TO-126-3 Vertical RM 2.54mm
 0
-8
-8
-40xx
-40xx-SO14
-SMALL OUTLINE PACKAGE 150 MIL
-SMALL OUTLINE PACKAGE 150 MIL
+3
+3
+ProjektMazda
+R17mm
+Resistor, Axial_DIN0411 series, Axial, Horizontal, pin pitch=12.7mm, 1W, length*diameter=9.9*3.6mm^2
+Resistor Axial_DIN0411 series Axial Horizontal pin pitch 12.7mm 1W length 9.9mm diameter 3.6mm
 0
-14
-14
-40xx
-40xx-SO16
-SMALL OUTLINE PACKAGE 150 MIL
-SMALL OUTLINE PACKAGE 150 MIL
+2
+2
+ProjektMazda
+R_Array_SIP9_resistors
+9-pin Resistor SIP pack
+R
 0
-16
-16
-40xx
-40xx-SO20W
-WIDE SMALL OUTLINE PACKAGE 300 MIL
-WIDE SMALL OUTLINE PACKAGE 300 MIL
+9
+9
+ProjektMazda
+TO-92_Japan
+TO-92 leads in-line, narrow, oval pads, drill 0.75mm (see NXP sot054_po.pdf)
+to-92 sc-43 sc-43a sot54 PA33 transistor
 0
-20
-20
-40xx
-40xx-SO24W
-WIDE SMALL OUTLINE PACKAGE 300 MIL
-WIDE SMALL OUTLINE PACKAGE 300 MIL
+3
+3
+ProjektMazda
+capacitorPolarisedMazda6mm
+CP, Radial_Tantal series, Radial, pin pitch=5.00mm, , diameter=4.5mm, Tantal Electrolytic Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/TANTAL-TB-Serie%23.pdf
+CP Radial_Tantal series Radial pin pitch 5.00mm  diameter 4.5mm Tantal Electrolytic Capacitor
 0
-24
-24
-40xx
-40xx-SO28W
-WIDE SMALL OUTLINE PACKAGE 300 MIL
-WIDE SMALL OUTLINE PACKAGE 300 MIL
+2
+2
+ProjektMazda
+capacitorPolarisedMazda6mmTantalum
+CP, Radial_Tantal series, Radial, pin pitch=5.00mm, , diameter=4.5mm, Tantal Electrolytic Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/TANTAL-TB-Serie%23.pdf
+CP Radial_Tantal series Radial pin pitch 5.00mm  diameter 4.5mm Tantal Electrolytic Capacitor
 0
-28
-28
+2
+2
+ProjektMazda
+capacitorTantalumMazda6mm
+CP, Radial_Tantal series, Radial, pin pitch=5.00mm, , diameter=4.5mm, Tantal Electrolytic Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/TANTAL-TB-Serie%23.pdf
+CP Radial_Tantal series Radial pin pitch 5.00mm  diameter 4.5mm Tantal Electrolytic Capacitor
+0
+2
+2
+ProjektMazda
+diode_zener_mazda
+DIODE
+DIODE
+0
+2
+2
+ProjektMazda
+diode_zener_mazda_big
+DIODE
+DIODE
+0
+2
+2
+ProjektMazda
+jumper-10E_short
+JUMPER
+JUMPER
+0
+2
+2
