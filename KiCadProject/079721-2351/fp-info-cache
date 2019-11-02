@@ -1,4 +1,4 @@
-40882844917644
+42455564651061
 ProjektMazda
 2sc4065
 TO-126-3, Vertical, RM 2.54mm, see https://www.diodes.com/assets/Package-Files/TO126.pdf
@@ -136,6 +136,13 @@ ProjektMazda
 TO-92_Japan
 TO-92 leads in-line, narrow, oval pads, drill 0.75mm (see NXP sot054_po.pdf)
 to-92 sc-43 sc-43a sot54 PA33 transistor
+0
+3
+3
+ProjektMazda
+TO-220-3_Vertical_Mazda
+TO-220-3, Vertical, RM 2.54mm, see https://www.vishay.com/docs/66542/to-220-1.pdf
+TO-220-3 Vertical RM 2.54mm
 0
 3
 3
