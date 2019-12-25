@@ -320,6 +320,42 @@ X ~ 9 290 -330 79 L 50 50 1 1 I
 ENDDRAW
 ENDDEF
 #
+# Connector_Conn_01x01_Female_mazda_big
+#
+DEF Connector_Conn_01x01_Female_mazda_big J 0 40 Y N 1 F N
+F0 "J" 0 100 50 H V C CNN
+F1 "Connector_Conn_01x01_Female_mazda_big" 0 -100 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ Connector*:*
+$ENDFPLIST
+DRAW
+A 0 0 20 901 -901 1 1 6 N 0 20 0 -20
+C -205 0 94 0 1 0 N
+P 2 1 1 6 -50 0 -20 0 N
+X Pin_1 1 -200 0 150 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Connector_Conn_01x01_Female_mazda_medium
+#
+DEF Connector_Conn_01x01_Female_mazda_medium J 0 40 Y N 1 F N
+F0 "J" 0 100 50 H V C CNN
+F1 "Connector_Conn_01x01_Female_mazda_medium" 0 -100 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ Connector*:*
+$ENDFPLIST
+DRAW
+A 0 0 20 901 -901 1 1 6 N 0 20 0 -20
+C -200 0 57 0 1 0 N
+P 2 1 1 6 -50 0 -20 0 N
+X Pin_1 1 -200 0 150 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
 # Device_CP1
 #
 DEF Device_CP1 C 0 10 N N 1 F N
