@@ -1,218 +1,99 @@
-48905595358148
-079721-2351
-2sc4065
-TO-126-3, Vertical, RM 2.54mm, see https://www.diodes.com/assets/Package-Files/TO126.pdf
-TO-126-3 Vertical RM 2.54mm
-0
-3
-3
-079721-2351
-C_Radial_D6mm_P4mm
-C, Radial series, Radial, pin pitch=2.50mm, diameter=6.3mm, height=5mm, Non-Polar Electrolytic Capacitor
-C Radial series Radial pin pitch 2.50mm diameter 6.3mm height 5mm Non-Polar Electrolytic Capacitor
+1369047019611
+Cap-M-ZN
+Cap-M-ZN-7*30
+
+
 0
 2
 2
-079721-2351
-C_Radial_D7mm_P5mm
-C, Radial series, Radial, pin pitch=2.50mm, diameter=6.3mm, height=5mm, Non-Polar Electrolytic Capacitor
-C Radial series Radial pin pitch 2.50mm diameter 6.3mm height 5mm Non-Polar Electrolytic Capacitor
+Cap-M-ZN
+Cap-M-ZN-8*30
+
+
 0
 2
 2
-079721-2351
-C_array_7
-PIN HEADER - 0.1"
-PIN HEADER - 0.1"
-0
-7
-7
-079721-2351
-Capacitor_13mm_7m_rect_2_pin
-NP FILM CAP
-NP FILM CAP
+Cap-M-ZN
+Cap-M-ZN-10*30
+
+
 0
 2
 2
-079721-2351
-Capacitor_17mm_7m_rect_3_pin
-NP FILM CAP
-NP FILM CAP
-0
-3
-2
-079721-2351
-DiodaMazda
-Diode, 5W series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=8.9*3.7mm^2, , http://www.diodes.com/_files/packages/8686949.gif
-Diode 5W series Axial Horizontal pin pitch 10.16mm  length 8.9mm diameter 3.7mm
+Cap-M-ZN
+Cap-M-ZN-11*30
+
+
 0
 2
 2
-079721-2351
-EcuConnector48pin_2
-PIN HEADER - 2.54
-PIN HEADER - 2.54
-0
-48
-48
-079721-2351
-HC244
-NP FILM CAP
-NP FILM CAP
-0
-12
-12
-079721-2351
-IS157
-NP FILM CAP
-NP FILM CAP
-0
-11
-11
-079721-2351
-Jumper
-JUMPER
-JUMPER
+Cap-M-ZN
+Cap-M-ZN-15*30
+
+
 0
 2
 2
-079721-2351
-MP5273
-DUAL IN LINE PACKAGE
-DUAL IN LINE PACKAGE
-0
-42
-42
-079721-2351
-MazdaResistor7mm
-Resistor, Axial_DIN0411 series, Axial, Horizontal, pin pitch=12.7mm, 1W, length*diameter=9.9*3.6mm^2
-Resistor Axial_DIN0411 series Axial Horizontal pin pitch 12.7mm 1W length 9.9mm diameter 3.6mm
+Cap-M-ZN
+Cap-M-ZN-16*30
+
+
 0
 2
 2
-079721-2351
-MazdaResistor10mm
-Resistor, Axial_DIN0411 series, Axial, Horizontal, pin pitch=12.7mm, 1W, length*diameter=9.9*3.6mm^2
-Resistor Axial_DIN0411 series Axial Horizontal pin pitch 12.7mm 1W length 9.9mm diameter 3.6mm
+Cap-M-ZN
+Cap-M-ZN-17*30
+
+
 0
 2
 2
-079721-2351
-MazdaResistor12mm
-Resistor, Axial_DIN0411 series, Axial, Horizontal, pin pitch=12.7mm, 1W, length*diameter=9.9*3.6mm^2
-Resistor Axial_DIN0411 series Axial Horizontal pin pitch 12.7mm 1W length 9.9mm diameter 3.6mm
+Cap-M-ZN
+Cap-M-ZN-18*40
+
+
 0
 2
 2
-079721-2351
-MazdaResistor15mm
-Resistor, Axial_DIN0411 series, Axial, Horizontal, pin pitch=12.7mm, 1W, length*diameter=9.9*3.6mm^2
-Resistor Axial_DIN0411 series Axial Horizontal pin pitch 12.7mm 1W length 9.9mm diameter 3.6mm
+Cap-M-ZN
+Cap-M-ZN-19*30
+
+
 0
 2
 2
-079721-2351
-MazdaResistor17mm
-Resistor, Axial_DIN0411 series, Axial, Horizontal, pin pitch=12.7mm, 1W, length*diameter=9.9*3.6mm^2
-Resistor Axial_DIN0411 series Axial Horizontal pin pitch 12.7mm 1W length 9.9mm diameter 3.6mm
+Cap-M-ZN
+Cap-M-ZN-20*40
+
+
 0
 2
 2
-079721-2351
-MazdaTo126
-TO-126-3, Vertical, RM 2.54mm, see https://www.diodes.com/assets/Package-Files/TO126.pdf
-TO-126-3 Vertical RM 2.54mm
-0
-3
-3
-079721-2351
-R17mm
-Resistor, Axial_DIN0411 series, Axial, Horizontal, pin pitch=12.7mm, 1W, length*diameter=9.9*3.6mm^2
-Resistor Axial_DIN0411 series Axial Horizontal pin pitch 12.7mm 1W length 9.9mm diameter 3.6mm
+Cap-M-ZN
+Cap-M-ZN-21*30
+
+
 0
 2
 2
-079721-2351
-R_Array_SIP9_resistors
-9-pin Resistor SIP pack
-R
-0
-9
-9
-079721-2351
-TO-92_Japan
-TO-92 leads in-line, narrow, oval pads, drill 0.75mm (see NXP sot054_po.pdf)
-to-92 sc-43 sc-43a sot54 PA33 transistor
-0
-3
-3
-079721-2351
-TO-126-3_Vertical
-TO-126-3, Vertical, RM 2.54mm, see https://www.diodes.com/assets/Package-Files/TO126.pdf
-TO-126-3 Vertical RM 2.54mm
-0
-3
-3
-079721-2351
-TO-220-3_Vertical_Mazda
-TO-220-3, Vertical, RM 2.54mm, see https://www.vishay.com/docs/66542/to-220-1.pdf
-TO-220-3 Vertical RM 2.54mm
-0
-3
-3
-079721-2351
-capacitorPolarisedMazda6mm
-CP, Radial_Tantal series, Radial, pin pitch=5.00mm, , diameter=4.5mm, Tantal Electrolytic Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/TANTAL-TB-Serie%23.pdf
-CP Radial_Tantal series Radial pin pitch 5.00mm  diameter 4.5mm Tantal Electrolytic Capacitor
+Cap-M-ZN
+Cap-M-ZN-22*40
+
+
 0
 2
 2
-079721-2351
-capacitorPolarisedMazda6mmTantalum
-CP, Radial_Tantal series, Radial, pin pitch=5.00mm, , diameter=4.5mm, Tantal Electrolytic Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/TANTAL-TB-Serie%23.pdf
-CP Radial_Tantal series Radial pin pitch 5.00mm  diameter 4.5mm Tantal Electrolytic Capacitor
+Cap-M-ZN
+Cap-M-ZN-23*38
+
+
 0
 2
 2
-079721-2351
-capacitorTantalumMazda6mm
-CP, Radial_Tantal series, Radial, pin pitch=5.00mm, , diameter=4.5mm, Tantal Electrolytic Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/TANTAL-TB-Serie%23.pdf
-CP Radial_Tantal series Radial pin pitch 5.00mm  diameter 4.5mm Tantal Electrolytic Capacitor
+Cap-M-ZN
+Cap-M-ZN-33*40
+
+
 0
 2
 2
-079721-2351
-diode_zener_mazda
-DIODE
-DIODE
-0
-2
-2
-079721-2351
-diode_zener_mazda_big
-DIODE
-DIODE
-0
-2
-2
-079721-2351
-jumper-10E_short
-JUMPER
-JUMPER
-0
-2
-2
-079721-2351
-sdip24
-NP FILM CAP
-NP FILM CAP
-0
-24
-24
-079721-2351
-sdip28
-NP FILM CAP
-NP FILM CAP
-0
-28
-28
