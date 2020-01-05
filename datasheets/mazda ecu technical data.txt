@@ -1,0 +1,91 @@
+===============================================================================================================
+componets
+	Protege ECU
+	C711
+
+	Festiva ECU
+	C711: 155K100 - MMK15155K100B10L4 - Cap Film 1.5uF 100V PET 10% (18 X 6.5 X 12.5mm) Radial 15mm 100C
+	C721: nothing
+	
+===============================================================================================================
+data flow within 90's mazda ECU
+	Here is a brief explanation on what is going on inside Mazda ECU. While all the ideas are general, this article also contains the specific details and component numbers as found on 079721-2351 PCB.
+
+
+
+	All the digital signals between chips within the ECU are +5 - top-left part of the board has all the power supply stuff.
+
+	Cranking
+	It all starts with cranking. While ignition key is in start, we have +10V on ECU pin 1C (Purple wire), this voltage reaches IC_501 pin 22 and this turns IC_501 output pin 2 to high. IC_501 pin 2 is connected to IC 603 pin 11 and IC 201 pin 21. IC 603 is just an inverter - for instance IC 601 pin 10 is low if IC 601 pin 11 is high, and high if pin 11 is low.
+
+	Throttle Position Sensor
+	Denso 179950-0161 gives us two inputs
+	1) When accelerator pedal is released, TPS connects the black/brown and red/white (ECU pin 1N). This grounds pin 16 of IC_501 (D151821-0020) which causes pin 8 of this chip to go low. If the pedal is pressed, these Black/BRown and Red/White wires are not connected and pin 8 of IC_501 goes high (+v5).
+
+	2) throttle position, i.e. acceleration pedal position is a light green/white wire which goes to ECU pin 2L. In case of Wide Open Throttle (WOT), we have zero volts on 401_21 input. IC401 is a 16 channel ADC chip, pin 401_21 is channel #8. If the pedal s not fully pressed, 401_21 gets +5 volts.
+
+	 
+	Sensors inside the distributor
+	While distributor is part of the ignition, on sixth generation/BG Mazda Protege it also contains two sensors: Camshaft Position Sensor and Cylinder ID sensor. These are photo optic sensors inside the distributor so they require a light source which requires power supply. This explains the White/Red +12 power supply wire. Black/LightGreen is ground. Both sensors are connected to IC101 - quad comparator NEC uPC117C..
+
+	With each full revolution of the camshaft, White signal wire (ECU pin 2E) is ground and disconnected four times. 33% of the time White is disconnected, 67% of the time White wire is ground. When White wire on the distributor is disconnected, IC101 pin 13 is low. If White wire is ground, IC101 pin 13 is hi. 67% duty cycle on IC101 pin 13. IC101 pin 13 is connected to IC201_23.
+
+	With each full revolution of the camshaft, Yellow/Blue signal wire (ECU pin 2G) changes state once. Approx 18% of the time this wire is disconnected, the rest of the time it is ground. If Y/B wire is disconnected, IC101 pin 14 is low. If Y/B is ground, IC101 pin 14 is hi. 82% duty cycle on IC101 pin 14. IC101 pin 14 is connected to IC201 pin 22.
+
+
+	Looks like t2t52371 B does not have CylID sensor
+
+
+	Mass flow sensor
+	BG Mazda Protege has the vane meter type (Vane Air Flow/VAF) of mass flow sensor with built-in intake air temperature (IAT) sensor.
+
+	Intake air temperature sensor is a thermistor (a resistor whose resistance varies with temperature). It's output is Red/Black wire which goes to ECU pin 2P. At room temperature resistance between Red/Black wire and ground is around 2K oHm After some time in the freezer, the resistance is 9.5Kohm. This sensor together with R421 (2700 Ohm) make a voltage divider which is measured by ADC channel 13 (IC401 pin 26)
+
+	If vane is completely closed, Green wire (pin 1 on VAF socket) is disconnected. If vane is even partially opened, Green wire is ground.
+
+	The main sensor is a potentiometer connected to the air flow vane. +5V input is Light Green/Red (LG/R) wire connected to ECU pin 2K. Output voltage on Red wire ranges from +3.8V if air vane is completely closed to +0.4V if vane is completely open, this Red output wire goes to ECU pin 2O, which goes to pin 23 of IC401
+
+
+
+
+
+	Idle Speed Control valve
+	While a screw in the throttle body controls base configuration, some variables like headlights, air conditioner and cold engine affect how much additional air is needed for idle under load. ISC valve is the device which allows the ECU to adjust throttle body configuration
+
+	Fuel Injection
+	While 079721-2351 PCB has two injector output sections, some of them (for instance, 1.8 SOHC Mazda Protege DX) are not even using both sections, driving all the injectors with one FET switch.
+
+	Injection is controlled by MP493 chip IC201. This chip either drives the injectors by itself (that would be limping mode) or uses the signals provided by the main IC601 chip.
+
+	Not the details: 201_19 output pin is connected to T711, C711, T712, R712 and R713 and eventually low level on 201_19 connects ECU pin 2U to ECU pin 2A, turning the injectors on by grounding them. If 201_19 is high, ECI pin 2U floats and this turns the injectors off.
+
+	The second channel is controlled by 201_18 output pin, it involves T721, C721, T722, R722 and R723.
+===============================================================================================================
+Some chips which you can find on Mazda or Ford engine control unit ECU
+	Denso D151821-0020 comparator / 12V/5V level shifter
+	Denso D IS157 barometric pressure sensor
+	Denso D151811-0360 16 channel 8bit A/D converter with serial interface
+	Denso MP493 limping mode chip
+	NEC uPC117C quad op amp / comparator - same pinout as LM2901
+	TC4069UBP hex inverter
+	TC4071BP quad OR gate
+===============================================================================================================
+thermistors
+	A thermistor is a type of resistor whose resistance varies significantly with temperature. Both Intake Air Temperature sensor and Engine Coolant Temperature sensor are thermistors.
+
+	Mazda ECT
+
+	Denso 179700-0050
+	_____________________________________
+	 temp, F | temp, C | resistance, Ohm
+		6	 | -14.5   | 11500
+		75	 | 23.9    | 2100
+			 
+
+
+	Intake Air Temperature sensor inside 197100-4110 VAF
+	_____________________________________
+	 temp, F | temp, C | resistance, Ohm
+		14	 | -10     | 10100
+		75	 | 23.9    | 2150
+			 
