@@ -1,0 +1,46 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2CS2001
+D 50mA Ic, 40V Vce, RF Signal NPN Transistor, TO-92
+K RF NPN Transistor
+F http://www.fairchildsemi.com/ds/BF/BF240.pdf
+$ENDCMP
+#
+$CMP 2SB1015B
+F http://www.onsemi.com/pub_link/Collateral/BC307-D.PDF
+$ENDCMP
+#
+$CMP 2SD1415
+K Darlington Power NPN Transistor
+F http://www.fairchildsemi.com/ds/TI/TIP120.pdf
+$ENDCMP
+#
+$CMP C945
+D 50mA Ic, 160V Vce, Audio High Voltage NPN Transistor, TO-92
+K Audio High Voltage NPN Transistor
+F http://rtellason.com/transdata/2sc1941.pdf
+$ENDCMP
+#
+$CMP CE1A3Q
+D Digital NPN Transistor, 1k/1k, SOT-23
+K ROHM Digital NPN Transistor
+$ENDCMP
+#
+$CMP RN1006
+D Digital NPN Transistor, 1k/1k, SOT-23
+K ROHM Digital NPN Transistor
+$ENDCMP
+#
+$CMP TIP121
+D 5A Ic, 80V Vce, Silicon Darlington Power NPN Transistor, TO-220
+K Darlington Power NPN Transistor
+F http://www.fairchildsemi.com/ds/TI/TIP120.pdf
+$ENDCMP
+#
+$CMP TIP122
+D 5A Ic, 100V Vce, Silicon Darlington Power NPN Transistor, TO-220
+K Darlington Power NPN Transistor
+F http://www.fairchildsemi.com/ds/TI/TIP120.pdf
+$ENDCMP
+#
+#End Doc Library
