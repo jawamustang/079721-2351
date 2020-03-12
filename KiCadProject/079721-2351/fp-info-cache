@@ -1,4 +1,4 @@
-18213584305522735
+18216752495001821
 1wire
 1wire-DIL16
 DUAL IN LINE PACKAGE
@@ -1050,6 +1050,13 @@ JUMPER
 2
 2
 B63H
+MountingHole_5mm
+Mounting Hole 3mm
+mounting hole 3mm
+0
+1
+1
+B63H
 R_7mm
 Resistor, Axial_DIN0411 series, Axial, Horizontal, pin pitch=12.7mm, 1W, length*diameter=9.9*3.6mm^2
 Resistor Axial_DIN0411 series Axial Horizontal pin pitch 12.7mm 1W length 9.9mm diameter 3.6mm
@@ -1078,12 +1085,19 @@ Resistor Axial_DIN0411 series Axial Horizontal pin pitch 12.7mm 1W length 9.9mm 
 2
 2
 B63H
-R_17mm_2W
+R_17mm
 Resistor, Axial_DIN0411 series, Axial, Horizontal, pin pitch=12.7mm, 1W, length*diameter=9.9*3.6mm^2
 Resistor Axial_DIN0411 series Axial Horizontal pin pitch 12.7mm 1W length 9.9mm diameter 3.6mm
 0
 2
 2
+B63H
+R_array_8
+9-pin Resistor SIP pack
+R
+0
+9
+9
 B63H
 R_arrray_8
 9-pin Resistor SIP pack
@@ -19655,13 +19669,6 @@ Capacitor-Wima-MKS2-16v-R37K5B20
 0
 2
 2
-Capacitor-Wima-MKS02-50v
-Capacitor-Wima-MKS02-50v-R2K5B2
-
-
-0
-2
-2
 Capacitor-Wima-MKS2-50v
 Capacitor-Wima-MKS2-50v-R2K5B2
 
@@ -19669,8 +19676,8 @@ Capacitor-Wima-MKS2-50v-R2K5B2
 0
 2
 2
-Capacitor-Wima-MKS2-50v
-Capacitor-Wima-MKS2-50v-R2K5B3
+Capacitor-Wima-MKS02-50v
+Capacitor-Wima-MKS02-50v-R2K5B2
 
 
 0
@@ -19678,6 +19685,13 @@ Capacitor-Wima-MKS2-50v-R2K5B3
 2
 Capacitor-Wima-MKS02-50v
 Capacitor-Wima-MKS02-50v-R2K5B3
+
+
+0
+2
+2
+Capacitor-Wima-MKS2-50v
+Capacitor-Wima-MKS2-50v-R2K5B3
 
 
 0
@@ -19753,15 +19767,15 @@ Capacitor-Wima-MKS02-50v-R5B2K5L
 0
 2
 2
-Capacitor-Wima-MKS02-50v
-Capacitor-Wima-MKS02-50v-R5B3
+Capacitor-Wima-MKS2-50v
+Capacitor-Wima-MKS2-50v-R5B3
 
 
 0
 2
 2
-Capacitor-Wima-MKS2-50v
-Capacitor-Wima-MKS2-50v-R5B3
+Capacitor-Wima-MKS02-50v
+Capacitor-Wima-MKS02-50v-R5B3
 
 
 0
@@ -19781,15 +19795,15 @@ Capacitor-Wima-MKS02-50v-R5B3K5
 0
 2
 2
-Capacitor-Wima-MKS02-50v
-Capacitor-Wima-MKS02-50v-R5B4K5
+Capacitor-Wima-MKS2-50v
+Capacitor-Wima-MKS2-50v-R5B4K5
 
 
 0
 2
 2
-Capacitor-Wima-MKS2-50v
-Capacitor-Wima-MKS2-50v-R5B4K5
+Capacitor-Wima-MKS02-50v
+Capacitor-Wima-MKS02-50v-R5B4K5
 
 
 0
@@ -19809,13 +19823,6 @@ Capacitor-Wima-MKS2-50v-R5B5
 0
 2
 2
-Capacitor-Wima-MKS02-50v
-Capacitor-Wima-MKS02-50v-R5B5K5
-
-
-0
-2
-2
 Capacitor-Wima-MKS2-50v
 Capacitor-Wima-MKS2-50v-R5B5K5
 
@@ -19824,7 +19831,7 @@ Capacitor-Wima-MKS2-50v-R5B5K5
 2
 2
 Capacitor-Wima-MKS02-50v
-Capacitor-Wima-MKS02-50v-R5B7K2
+Capacitor-Wima-MKS02-50v-R5B5K5
 
 
 0
@@ -19832,6 +19839,13 @@ Capacitor-Wima-MKS02-50v-R5B7K2
 2
 Capacitor-Wima-MKS2-50v
 Capacitor-Wima-MKS2-50v-R5B7K2
+
+
+0
+2
+2
+Capacitor-Wima-MKS02-50v
+Capacitor-Wima-MKS02-50v-R5B7K2
 
 
 0
@@ -19872,15 +19886,15 @@ Capacitor-Wima-MKS02-50v-R7K5B4
 0
 2
 2
-Capacitor-Wima-MKS2-50v
-Capacitor-Wima-MKS2-50v-R7K5B5
+Capacitor-Wima-MKS02-50v
+Capacitor-Wima-MKS02-50v-R7K5B5
 
 
 0
 2
 2
-Capacitor-Wima-MKS02-50v
-Capacitor-Wima-MKS02-50v-R7K5B5
+Capacitor-Wima-MKS2-50v
+Capacitor-Wima-MKS2-50v-R7K5B5
 
 
 0
@@ -19914,15 +19928,15 @@ Capacitor-Wima-MKS02-50v-R10B4
 0
 2
 2
-Capacitor-Wima-MKS02-50v
-Capacitor-Wima-MKS02-50v-R10B5
+Capacitor-Wima-MKS2-50v
+Capacitor-Wima-MKS2-50v-R10B5
 
 
 0
 2
 2
-Capacitor-Wima-MKS2-50v
-Capacitor-Wima-MKS2-50v-R10B5
+Capacitor-Wima-MKS02-50v
+Capacitor-Wima-MKS02-50v-R10B5
 
 
 0
@@ -19984,13 +19998,6 @@ Capacitor-Wima-MKS2-50v-R15B7
 0
 2
 2
-Capacitor-Wima-MKS2-50v
-Capacitor-Wima-MKS2-50v-R15B8
-
-
-0
-2
-2
 Capacitor-Wima-MKS02-50v
 Capacitor-Wima-MKS02-50v-R15B8
 
@@ -19999,7 +20006,7 @@ Capacitor-Wima-MKS02-50v-R15B8
 2
 2
 Capacitor-Wima-MKS2-50v
-Capacitor-Wima-MKS2-50v-R15B9
+Capacitor-Wima-MKS2-50v-R15B8
 
 
 0
@@ -20013,7 +20020,7 @@ Capacitor-Wima-MKS02-50v-R15B9
 2
 2
 Capacitor-Wima-MKS2-50v
-Capacitor-Wima-MKS2-50v-R22K5B6
+Capacitor-Wima-MKS2-50v-R15B9
 
 
 0
@@ -20021,6 +20028,13 @@ Capacitor-Wima-MKS2-50v-R22K5B6
 2
 Capacitor-Wima-MKS02-50v
 Capacitor-Wima-MKS02-50v-R22K5B6
+
+
+0
+2
+2
+Capacitor-Wima-MKS2-50v
+Capacitor-Wima-MKS2-50v-R22K5B6
 
 
 0
@@ -20096,15 +20110,15 @@ Capacitor-Wima-MKS02-50v-R27K5B9
 0
 2
 2
-Capacitor-Wima-MKS2-50v
-Capacitor-Wima-MKS2-50v-R27K5B11
+Capacitor-Wima-MKS02-50v
+Capacitor-Wima-MKS02-50v-R27K5B11
 
 
 0
 2
 2
-Capacitor-Wima-MKS02-50v
-Capacitor-Wima-MKS02-50v-R27K5B11
+Capacitor-Wima-MKS2-50v
+Capacitor-Wima-MKS2-50v-R27K5B11
 
 
 0
@@ -20138,13 +20152,6 @@ Capacitor-Wima-MKS2-50v-R27K5B15
 0
 2
 2
-Capacitor-Wima-MKS2-50v
-Capacitor-Wima-MKS2-50v-R27K5B17
-
-
-0
-2
-2
 Capacitor-Wima-MKS02-50v
 Capacitor-Wima-MKS02-50v-R27K5B17
 
@@ -20153,7 +20160,7 @@ Capacitor-Wima-MKS02-50v-R27K5B17
 2
 2
 Capacitor-Wima-MKS2-50v
-Capacitor-Wima-MKS2-50v-R27K5B20
+Capacitor-Wima-MKS2-50v-R27K5B17
 
 
 0
@@ -20167,7 +20174,7 @@ Capacitor-Wima-MKS02-50v-R27K5B20
 2
 2
 Capacitor-Wima-MKS2-50v
-Capacitor-Wima-MKS2-50v-R37K5B15
+Capacitor-Wima-MKS2-50v-R27K5B20
 
 
 0
@@ -20175,6 +20182,13 @@ Capacitor-Wima-MKS2-50v-R37K5B15
 2
 Capacitor-Wima-MKS02-50v
 Capacitor-Wima-MKS02-50v-R37K5B15
+
+
+0
+2
+2
+Capacitor-Wima-MKS2-50v
+Capacitor-Wima-MKS2-50v-R37K5B15
 
 
 0
@@ -20208,15 +20222,15 @@ Capacitor-Wima-MKS2-50v-R37K5B20
 0
 2
 2
-Capacitor-Wima-MKS2-63v
-Capacitor-Wima-MKS2-63v-R2K5B2
+Capacitor-Wima-MKS02-63v
+Capacitor-Wima-MKS02-63v-R2K5B2
 
 
 0
 2
 2
-Capacitor-Wima-MKS02-63v
-Capacitor-Wima-MKS02-63v-R2K5B2
+Capacitor-Wima-MKS2-63v
+Capacitor-Wima-MKS2-63v-R2K5B2
 
 
 0
@@ -20264,13 +20278,6 @@ Capacitor-Wima-MKS2-63v-R2K5B5
 0
 2
 2
-Capacitor-Wima-MKS02-63v
-Capacitor-Wima-MKS02-63v-R2K5B6
-
-
-0
-2
-2
 Capacitor-Wima-MKS2-63v
 Capacitor-Wima-MKS2-63v-R2K5B6
 
@@ -20279,7 +20286,7 @@ Capacitor-Wima-MKS2-63v-R2K5B6
 2
 2
 Capacitor-Wima-MKS02-63v
-Capacitor-Wima-MKS02-63v-R5B2K5
+Capacitor-Wima-MKS02-63v-R2K5B6
 
 
 0
@@ -20292,8 +20299,8 @@ Capacitor-Wima-MKS2-63v-R5B2K5
 0
 2
 2
-Capacitor-Wima-MKS2-63v
-Capacitor-Wima-MKS2-63v-R5B2K5L
+Capacitor-Wima-MKS02-63v
+Capacitor-Wima-MKS02-63v-R5B2K5
 
 
 0
@@ -20307,7 +20314,7 @@ Capacitor-Wima-MKS02-63v-R5B2K5L
 2
 2
 Capacitor-Wima-MKS2-63v
-Capacitor-Wima-MKS2-63v-R5B3
+Capacitor-Wima-MKS2-63v-R5B2K5L
 
 
 0
@@ -20315,6 +20322,13 @@ Capacitor-Wima-MKS2-63v-R5B3
 2
 Capacitor-Wima-MKS02-63v
 Capacitor-Wima-MKS02-63v-R5B3
+
+
+0
+2
+2
+Capacitor-Wima-MKS2-63v
+Capacitor-Wima-MKS2-63v-R5B3
 
 
 0
@@ -20362,15 +20376,15 @@ Capacitor-Wima-MKS2-63v-R5B5
 0
 2
 2
-Capacitor-Wima-MKS02-63v
-Capacitor-Wima-MKS02-63v-R5B5K5
+Capacitor-Wima-MKS2-63v
+Capacitor-Wima-MKS2-63v-R5B5K5
 
 
 0
 2
 2
-Capacitor-Wima-MKS2-63v
-Capacitor-Wima-MKS2-63v-R5B5K5
+Capacitor-Wima-MKS02-63v
+Capacitor-Wima-MKS02-63v-R5B5K5
 
 
 0
@@ -20411,13 +20425,6 @@ Capacitor-Wima-MKS02-63v-R7K5B3
 0
 2
 2
-Capacitor-Wima-MKS2-63v
-Capacitor-Wima-MKS2-63v-R7K5B4
-
-
-0
-2
-2
 Capacitor-Wima-MKS02-63v
 Capacitor-Wima-MKS02-63v-R7K5B4
 
@@ -20425,8 +20432,8 @@ Capacitor-Wima-MKS02-63v-R7K5B4
 0
 2
 2
-Capacitor-Wima-MKS02-63v
-Capacitor-Wima-MKS02-63v-R7K5B5
+Capacitor-Wima-MKS2-63v
+Capacitor-Wima-MKS2-63v-R7K5B4
 
 
 0
@@ -20439,8 +20446,8 @@ Capacitor-Wima-MKS2-63v-R7K5B5
 0
 2
 2
-Capacitor-Wima-MKS2-63v
-Capacitor-Wima-MKS2-63v-R7K5B6
+Capacitor-Wima-MKS02-63v
+Capacitor-Wima-MKS02-63v-R7K5B5
 
 
 0
@@ -20454,7 +20461,7 @@ Capacitor-Wima-MKS02-63v-R7K5B6
 2
 2
 Capacitor-Wima-MKS2-63v
-Capacitor-Wima-MKS2-63v-R10B4
+Capacitor-Wima-MKS2-63v-R7K5B6
 
 
 0
@@ -20468,7 +20475,7 @@ Capacitor-Wima-MKS02-63v-R10B4
 2
 2
 Capacitor-Wima-MKS2-63v
-Capacitor-Wima-MKS2-63v-R10B5
+Capacitor-Wima-MKS2-63v-R10B4
 
 
 0
@@ -20476,6 +20483,13 @@ Capacitor-Wima-MKS2-63v-R10B5
 2
 Capacitor-Wima-MKS02-63v
 Capacitor-Wima-MKS02-63v-R10B5
+
+
+0
+2
+2
+Capacitor-Wima-MKS2-63v
+Capacitor-Wima-MKS2-63v-R10B5
 
 
 0
@@ -20537,15 +20551,15 @@ Capacitor-Wima-MKS02-63v-R15B7
 0
 2
 2
-Capacitor-Wima-MKS2-63v
-Capacitor-Wima-MKS2-63v-R15B8
+Capacitor-Wima-MKS02-63v
+Capacitor-Wima-MKS02-63v-R15B8
 
 
 0
 2
 2
-Capacitor-Wima-MKS02-63v
-Capacitor-Wima-MKS02-63v-R15B8
+Capacitor-Wima-MKS2-63v
+Capacitor-Wima-MKS2-63v-R15B8
 
 
 0
@@ -20579,15 +20593,15 @@ Capacitor-Wima-MKS02-63v-R22K5B6
 0
 2
 2
-Capacitor-Wima-MKS2-63v
-Capacitor-Wima-MKS2-63v-R22K5B7
+Capacitor-Wima-MKS02-63v
+Capacitor-Wima-MKS02-63v-R22K5B7
 
 
 0
 2
 2
-Capacitor-Wima-MKS02-63v
-Capacitor-Wima-MKS02-63v-R22K5B7
+Capacitor-Wima-MKS2-63v
+Capacitor-Wima-MKS2-63v-R22K5B7
 
 
 0
@@ -20621,15 +20635,15 @@ Capacitor-Wima-MKS2-63v-R22K5B10
 0
 2
 2
-Capacitor-Wima-MKS2-63v
-Capacitor-Wima-MKS2-63v-R22K5B11
+Capacitor-Wima-MKS02-63v
+Capacitor-Wima-MKS02-63v-R22K5B11
 
 
 0
 2
 2
-Capacitor-Wima-MKS02-63v
-Capacitor-Wima-MKS02-63v-R22K5B11
+Capacitor-Wima-MKS2-63v
+Capacitor-Wima-MKS2-63v-R22K5B11
 
 
 0
@@ -20649,15 +20663,15 @@ Capacitor-Wima-MKS2-63v-R27K5B9
 0
 2
 2
-Capacitor-Wima-MKS2-63v
-Capacitor-Wima-MKS2-63v-R27K5B11
+Capacitor-Wima-MKS02-63v
+Capacitor-Wima-MKS02-63v-R27K5B11
 
 
 0
 2
 2
-Capacitor-Wima-MKS02-63v
-Capacitor-Wima-MKS02-63v-R27K5B11
+Capacitor-Wima-MKS2-63v
+Capacitor-Wima-MKS2-63v-R27K5B11
 
 
 0
@@ -20677,13 +20691,6 @@ Capacitor-Wima-MKS02-63v-R27K5B13
 0
 2
 2
-Capacitor-Wima-MKS2-63v
-Capacitor-Wima-MKS2-63v-R27K5B15
-
-
-0
-2
-2
 Capacitor-Wima-MKS02-63v
 Capacitor-Wima-MKS02-63v-R27K5B15
 
@@ -20692,7 +20699,7 @@ Capacitor-Wima-MKS02-63v-R27K5B15
 2
 2
 Capacitor-Wima-MKS2-63v
-Capacitor-Wima-MKS2-63v-R27K5B17
+Capacitor-Wima-MKS2-63v-R27K5B15
 
 
 0
@@ -20700,6 +20707,13 @@ Capacitor-Wima-MKS2-63v-R27K5B17
 2
 Capacitor-Wima-MKS02-63v
 Capacitor-Wima-MKS02-63v-R27K5B17
+
+
+0
+2
+2
+Capacitor-Wima-MKS2-63v
+Capacitor-Wima-MKS2-63v-R27K5B17
 
 
 0
@@ -20733,15 +20747,15 @@ Capacitor-Wima-MKS2-63v-R37K5B15
 0
 2
 2
-Capacitor-Wima-MKS02-63v
-Capacitor-Wima-MKS02-63v-R37K5B19
+Capacitor-Wima-MKS2-63v
+Capacitor-Wima-MKS2-63v-R37K5B19
 
 
 0
 2
 2
-Capacitor-Wima-MKS2-63v
-Capacitor-Wima-MKS2-63v-R37K5B19
+Capacitor-Wima-MKS02-63v
+Capacitor-Wima-MKS02-63v-R37K5B19
 
 
 0
@@ -20761,15 +20775,15 @@ Capacitor-Wima-MKS2-63v-R37K5B20
 0
 2
 2
-Capacitor-Wima-MKS02-100v
-Capacitor-Wima-MKS02-100v-R2K5B2
+Capacitor-Wima-MKS2-100v
+Capacitor-Wima-MKS2-100v-R2K5B2
 
 
 0
 2
 2
-Capacitor-Wima-MKS2-100v
-Capacitor-Wima-MKS2-100v-R2K5B2
+Capacitor-Wima-MKS02-100v
+Capacitor-Wima-MKS02-100v-R2K5B2
 
 
 0
@@ -20817,13 +20831,6 @@ Capacitor-Wima-MKS02-100v-R2K5B5
 0
 2
 2
-Capacitor-Wima-MKS02-100v
-Capacitor-Wima-MKS02-100v-R2K5B6
-
-
-0
-2
-2
 Capacitor-Wima-MKS2-100v
 Capacitor-Wima-MKS2-100v-R2K5B6
 
@@ -20831,8 +20838,8 @@ Capacitor-Wima-MKS2-100v-R2K5B6
 0
 2
 2
-Capacitor-Wima-MKS2-100v
-Capacitor-Wima-MKS2-100v-R5B2K5
+Capacitor-Wima-MKS02-100v
+Capacitor-Wima-MKS02-100v-R2K5B6
 
 
 0
@@ -20840,6 +20847,13 @@ Capacitor-Wima-MKS2-100v-R5B2K5
 2
 Capacitor-Wima-MKS02-100v
 Capacitor-Wima-MKS02-100v-R5B2K5
+
+
+0
+2
+2
+Capacitor-Wima-MKS2-100v
+Capacitor-Wima-MKS2-100v-R5B2K5
 
 
 0
@@ -20873,13 +20887,6 @@ Capacitor-Wima-MKS02-100v-R5B3
 0
 2
 2
-Capacitor-Wima-MKS02-100v
-Capacitor-Wima-MKS02-100v-R5B3K5
-
-
-0
-2
-2
 Capacitor-Wima-MKS2-100v
 Capacitor-Wima-MKS2-100v-R5B3K5
 
@@ -20888,7 +20895,7 @@ Capacitor-Wima-MKS2-100v-R5B3K5
 2
 2
 Capacitor-Wima-MKS02-100v
-Capacitor-Wima-MKS02-100v-R5B4K5
+Capacitor-Wima-MKS02-100v-R5B3K5
 
 
 0
@@ -20896,6 +20903,13 @@ Capacitor-Wima-MKS02-100v-R5B4K5
 2
 Capacitor-Wima-MKS2-100v
 Capacitor-Wima-MKS2-100v-R5B4K5
+
+
+0
+2
+2
+Capacitor-Wima-MKS02-100v
+Capacitor-Wima-MKS02-100v-R5B4K5
 
 
 0
@@ -20915,13 +20929,6 @@ Capacitor-Wima-MKS02-100v-R5B5
 0
 2
 2
-Capacitor-Wima-MKS2-100v
-Capacitor-Wima-MKS2-100v-R5B5K5
-
-
-0
-2
-2
 Capacitor-Wima-MKS02-100v
 Capacitor-Wima-MKS02-100v-R5B5K5
 
@@ -20929,8 +20936,8 @@ Capacitor-Wima-MKS02-100v-R5B5K5
 0
 2
 2
-Capacitor-Wima-MKS02-100v
-Capacitor-Wima-MKS02-100v-R5B7K2
+Capacitor-Wima-MKS2-100v
+Capacitor-Wima-MKS2-100v-R5B5K5
 
 
 0
@@ -20938,6 +20945,13 @@ Capacitor-Wima-MKS02-100v-R5B7K2
 2
 Capacitor-Wima-MKS2-100v
 Capacitor-Wima-MKS2-100v-R5B7K2
+
+
+0
+2
+2
+Capacitor-Wima-MKS02-100v
+Capacitor-Wima-MKS02-100v-R5B7K2
 
 
 0
@@ -20964,13 +20978,6 @@ Capacitor-Wima-MKS2-100v-R7K5B3
 0
 2
 2
-Capacitor-Wima-MKS2-100v
-Capacitor-Wima-MKS2-100v-R7K5B4
-
-
-0
-2
-2
 Capacitor-Wima-MKS02-100v
 Capacitor-Wima-MKS02-100v-R7K5B4
 
@@ -20978,8 +20985,8 @@ Capacitor-Wima-MKS02-100v-R7K5B4
 0
 2
 2
-Capacitor-Wima-MKS02-100v
-Capacitor-Wima-MKS02-100v-R7K5B5
+Capacitor-Wima-MKS2-100v
+Capacitor-Wima-MKS2-100v-R7K5B4
 
 
 0
@@ -20992,8 +20999,8 @@ Capacitor-Wima-MKS2-100v-R7K5B5
 0
 2
 2
-Capacitor-Wima-MKS2-100v
-Capacitor-Wima-MKS2-100v-R7K5B6
+Capacitor-Wima-MKS02-100v
+Capacitor-Wima-MKS02-100v-R7K5B5
 
 
 0
@@ -21001,6 +21008,13 @@ Capacitor-Wima-MKS2-100v-R7K5B6
 2
 Capacitor-Wima-MKS02-100v
 Capacitor-Wima-MKS02-100v-R7K5B6
+
+
+0
+2
+2
+Capacitor-Wima-MKS2-100v
+Capacitor-Wima-MKS2-100v-R7K5B6
 
 
 0
@@ -21048,13 +21062,6 @@ Capacitor-Wima-MKS02-100v-R10B6
 0
 2
 2
-Capacitor-Wima-MKS02-100v
-Capacitor-Wima-MKS02-100v-R15B5
-
-
-0
-2
-2
 Capacitor-Wima-MKS2-100v
 Capacitor-Wima-MKS2-100v-R15B5
 
@@ -21062,8 +21069,8 @@ Capacitor-Wima-MKS2-100v-R15B5
 0
 2
 2
-Capacitor-Wima-MKS2-100v
-Capacitor-Wima-MKS2-100v-R15B6
+Capacitor-Wima-MKS02-100v
+Capacitor-Wima-MKS02-100v-R15B5
 
 
 0
@@ -21077,7 +21084,7 @@ Capacitor-Wima-MKS02-100v-R15B6
 2
 2
 Capacitor-Wima-MKS2-100v
-Capacitor-Wima-MKS2-100v-R15B7
+Capacitor-Wima-MKS2-100v-R15B6
 
 
 0
@@ -21091,7 +21098,7 @@ Capacitor-Wima-MKS02-100v-R15B7
 2
 2
 Capacitor-Wima-MKS2-100v
-Capacitor-Wima-MKS2-100v-R15B8
+Capacitor-Wima-MKS2-100v-R15B7
 
 
 0
@@ -21105,7 +21112,7 @@ Capacitor-Wima-MKS02-100v-R15B8
 2
 2
 Capacitor-Wima-MKS2-100v
-Capacitor-Wima-MKS2-100v-R15B9
+Capacitor-Wima-MKS2-100v-R15B8
 
 
 0
@@ -21118,8 +21125,8 @@ Capacitor-Wima-MKS02-100v-R15B9
 0
 2
 2
-Capacitor-Wima-MKS02-100v
-Capacitor-Wima-MKS02-100v-R22K5B6
+Capacitor-Wima-MKS2-100v
+Capacitor-Wima-MKS2-100v-R15B9
 
 
 0
@@ -21127,6 +21134,13 @@ Capacitor-Wima-MKS02-100v-R22K5B6
 2
 Capacitor-Wima-MKS2-100v
 Capacitor-Wima-MKS2-100v-R22K5B6
+
+
+0
+2
+2
+Capacitor-Wima-MKS02-100v
+Capacitor-Wima-MKS02-100v-R22K5B6
 
 
 0
@@ -21160,15 +21174,15 @@ Capacitor-Wima-MKS2-100v-R22K5B8
 0
 2
 2
-Capacitor-Wima-MKS02-100v
-Capacitor-Wima-MKS02-100v-R22K5B10
+Capacitor-Wima-MKS2-100v
+Capacitor-Wima-MKS2-100v-R22K5B10
 
 
 0
 2
 2
-Capacitor-Wima-MKS2-100v
-Capacitor-Wima-MKS2-100v-R22K5B10
+Capacitor-Wima-MKS02-100v
+Capacitor-Wima-MKS02-100v-R22K5B10
 
 
 0
@@ -21188,15 +21202,15 @@ Capacitor-Wima-MKS02-100v-R22K5B11
 0
 2
 2
-Capacitor-Wima-MKS2-100v
-Capacitor-Wima-MKS2-100v-R27K5B9
+Capacitor-Wima-MKS02-100v
+Capacitor-Wima-MKS02-100v-R27K5B9
 
 
 0
 2
 2
-Capacitor-Wima-MKS02-100v
-Capacitor-Wima-MKS02-100v-R27K5B9
+Capacitor-Wima-MKS2-100v
+Capacitor-Wima-MKS2-100v-R27K5B9
 
 
 0
@@ -21216,15 +21230,15 @@ Capacitor-Wima-MKS02-100v-R27K5B11
 0
 2
 2
-Capacitor-Wima-MKS02-100v
-Capacitor-Wima-MKS02-100v-R27K5B13
+Capacitor-Wima-MKS2-100v
+Capacitor-Wima-MKS2-100v-R27K5B13
 
 
 0
 2
 2
-Capacitor-Wima-MKS2-100v
-Capacitor-Wima-MKS2-100v-R27K5B13
+Capacitor-Wima-MKS02-100v
+Capacitor-Wima-MKS02-100v-R27K5B13
 
 
 0
@@ -21286,13 +21300,6 @@ Capacitor-Wima-MKS2-100v-R37K5B15
 0
 2
 2
-Capacitor-Wima-MKS02-100v
-Capacitor-Wima-MKS02-100v-R37K5B19
-
-
-0
-2
-2
 Capacitor-Wima-MKS2-100v
 Capacitor-Wima-MKS2-100v-R37K5B19
 
@@ -21301,7 +21308,7 @@ Capacitor-Wima-MKS2-100v-R37K5B19
 2
 2
 Capacitor-Wima-MKS02-100v
-Capacitor-Wima-MKS02-100v-R37K5B20
+Capacitor-Wima-MKS02-100v-R37K5B19
 
 
 0
@@ -21309,6 +21316,13 @@ Capacitor-Wima-MKS02-100v-R37K5B20
 2
 Capacitor-Wima-MKS2-100v
 Capacitor-Wima-MKS2-100v-R37K5B20
+
+
+0
+2
+2
+Capacitor-Wima-MKS02-100v
+Capacitor-Wima-MKS02-100v-R37K5B20
 
 
 0
@@ -146993,16 +147007,16 @@ CONNECTOR
 20
 20
 nxp
-nxp-DIL8
-
-
+nxp-DIL08
+DUAL IN LINE PACKAGE
+DUAL IN LINE PACKAGE
 0
 8
 8
 nxp
-nxp-DIL08
-DUAL IN LINE PACKAGE
-DUAL IN LINE PACKAGE
+nxp-DIL8
+
+
 0
 8
 8
@@ -148169,16 +148183,16 @@ CONNECTOR
 10
 10
 philips-4
-philips-4-DIL08
-DUAL IN LINE PACKAGE
-DUAL IN LINE PACKAGE
+philips-4-DIL8
+
+
 0
 8
 8
 philips-4
-philips-4-DIL8
-
-
+philips-4-DIL08
+DUAL IN LINE PACKAGE
+DUAL IN LINE PACKAGE
 0
 8
 8
