@@ -26,6 +26,12 @@ D Digital NPN Transistor, 1k/1k, SOT-23
 K ROHM Digital NPN Transistor
 $ENDCMP
 #
+$CMP Empty_pnp
+D 100mA Ic, 45V Vce, Epitaxial Silicon PNP Transistor, TO-92
+K Epitaxial Silicon PNP Transistor
+F http://www.onsemi.com/pub_link/Collateral/BC307-D.PDF
+$ENDCMP
+#
 $CMP RN1006
 D Digital NPN Transistor, 1k/1k, SOT-23
 K ROHM Digital NPN Transistor

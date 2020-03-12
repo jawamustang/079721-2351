@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name ProjektMazda)(type KiCad)(uri D:/MazdaPcb/Footprints)(options "")(descr ""))
+  (lib (name B63H)(type KiCad)(uri ${KIPRJMOD}/B63H.pretty)(options "")(descr ""))
 )
