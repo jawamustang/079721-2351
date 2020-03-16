@@ -269,14 +269,14 @@ X ADC_ch14 13 -530 -860 79 R 31 20 1 1 I
 X ADC_ch15 14 -530 -970 79 R 31 20 1 1 I
 X Vcc 15 80 -970 79 L 31 39 1 1 I
 X Vcc 16 80 -860 79 L 31 39 1 1 I
-X Vcc 17 80 -750 79 L 31 39 1 1 I
+X ??? 17 80 -750 79 L 31 20 1 1 I
 X ADC_ch0 18 80 -630 79 L 31 20 1 1 I
 X ADC_ch1 19 80 -520 79 L 31 20 1 1 I
 X ADC_ch3 2 -530 380 79 R 31 20 1 1 I
 X Vcc 20 80 -410 79 L 31 39 1 1 I
 X RX 21 80 -300 79 L 31 39 1 1 I
 X TX 22 80 -190 79 L 31 39 1 1 P
-X serial_interface_clock,_62.5_KHz,_50%_duty_cycle 23 80 -70 79 L 31 8 1 1 I
+X serial_interface_clock 23 80 -70 79 L 31 8 1 1 I
 X primary_clock,_1_MHz,_50%_duty_cycle 24 80 40 79 L 31 8 1 1 I
 X GND 25 80 160 79 L 31 39 1 1 I
 X ~ 26 80 265 79 L 31 8 1 1 N
