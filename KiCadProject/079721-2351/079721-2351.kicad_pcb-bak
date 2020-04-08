@@ -10,6 +10,12 @@
   )
 
   (page A4)
+  (title_block
+    (title "B63H-18 881C")
+    (date 2020-04-07)
+    (comment 1 email:jawamustang@gmail.com)
+  )
+
   (layers
     (0 F.Cu signal)
     (31 B.Cu signal)
